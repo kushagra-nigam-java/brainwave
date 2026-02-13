@@ -4,6 +4,7 @@ BrainWave is an offline-first educational platform designed to support students 
 
 The idea behind BrainWave is to make digital education more inclusive, affordable, and accessible, especially for students in rural and semi-urban regions of India.
 
+
 ---
 
 ## 🚩 Problem Statement
@@ -57,7 +58,9 @@ BrainWave solves this problem by providing an offline-first learning system wher
 - Can be scaled nationwide with minimal infrastructure  
 - Compatible with government education initiatives  
 - Low bandwidth and cost-effective solution  
-- Easily expandable to include more subjects and analytics  
+- Easily expandable to include more subjects and analytics
+- Can be used in multilanguage
+  
 
 ---
 
